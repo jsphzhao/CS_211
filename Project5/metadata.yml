@@ -1,0 +1,12 @@
+---
+:id: 231587476
+:submitters:
+- :name: Joseph Zhao
+  :email: josephzhao2027@u.northwestern.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-02-16 23:43:00.772563000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-02-16 15:43:00.772563000 Z
+:status: processed
+:score: 100.0
